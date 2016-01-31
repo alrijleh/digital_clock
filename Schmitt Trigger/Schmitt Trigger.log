@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Fouad\Google Drive\Projects\Digital_Clock\Oscillator\Schmitt Trigger.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Mar 27 19:09:27 2015
+Total elapsed time: 0.069 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3018
+traniter = 3015
+tranpoints = 1320
+accept = 1236
+rejected = 84
+matrix size = 9
+fillins = 1
+solver = Normal
+Matrix Compiler1: 350 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
+

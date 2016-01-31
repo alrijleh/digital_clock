@@ -1,0 +1,3 @@
+C1 = C2 = 25 pF
+Rf = 10M
+Rext = 1k

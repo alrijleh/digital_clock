@@ -1,0 +1,266 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 3/28/2015 5:51:45 PM
+#Cmp ( order = Reference )
+| C1         .5uF        
+| C2         .5uF        
+| C3         C1 15pF     
+| C4         C1 25pF     
+| C5         C2 25pF     
+| C6         C2 0pF      
+| C7         Co 25pF     
+| C8         Co 25pF     
+| C9         Co 0pF      
+| D1         LED         
+| D2         LED         
+| D3         LED         
+| D4         LED         
+| D5         LED         
+| D6         LED         
+| D7         LED         
+| D8         LED         
+| D9         LED         
+| D10        LED         
+| D11        LED         
+| D12        LED         
+| D13        LED         
+| D14        LED         
+| D15        LED         
+| D16        LED         
+| D17        LED         
+| D18        LED         
+| D19        LED         
+| D20        LED         
+| D21        LED         
+| D22        LED         
+| D23        LED         
+| D24        LED         
+| D25        LED         
+| D26        LED         
+| D27        LED         
+| D28        LED         
+| D29        LED         
+| D30        LED         
+| D31        LED         
+| D32        LED         
+| D33        LED         
+| D34        LED         
+| D35        LED         
+| D36        LED         
+| D37        LED         
+| D38        LED         
+| D39        LED         
+| D40        LED         
+| D41        LED         
+| D42        LED         
+| D43        LED         
+| D44        LED         
+| D45        LED         
+| D46        LED         
+| D47        LED         
+| D48        LED         
+| D49        LED         
+| D50        LED         
+| D51        LED         
+| D52        LED         
+| D53        LED         
+| D54        LED         
+| D55        LED         
+| D56        LED         
+| D57        LED         
+| D58        LED         
+| D59        LED         
+| D60        LED         
+| D61        LED         
+| D62        LED         
+| D63        LED         
+| D64        LED         
+| D65        LED         
+| D66        LED         
+| D67        LED         
+| D68        LED         
+| D69        LED         
+| D70        LED         
+| D71        LED         
+| D72        LED         
+| Q1         NPN         
+| Q2         NPN         
+| R1         4.7k        
+| R2         220         
+| R3         220         
+| R4         220         
+| R5         220         
+| R6         220         
+| R7         220         
+| R8         220         
+| R9         220         
+| R10        220         
+| R11        220         
+| R12        220         
+| R13        4.7k        
+| R14        220         
+| R15        220         
+| R16        220         
+| R17        220         
+| R18        220         
+| R19        220         
+| R20        220         
+| R21        220         
+| R22        220         
+| R23        220         
+| R24        220         
+| R25        Rf 10M      
+| R26        220         
+| R27        220         
+| R28        Rext 200k   
+| SW1        min+        
+| SW2        hour+       
+| U1         74LS86      
+| U2         74LS32      
+| U3         74LS90      
+| U4         74LS90      
+| U5         74LS90      
+| U6         74LS90      
+| U7         74LS08      
+| U8         74LS90      
+| U9         74LS90      
+| U10        74LS47      
+| U11        74LS47      
+| U12        74LS47      
+| U13        74LS04      
+| U14        74LS393     
+| U15        74LS393     
+| X1         QUARTZCMS4  
+#End Cmp
+
+#Cmp ( order = Value )
+| .5uF         C1        
+| .5uF         C2        
+| C1 15pF      C3        
+| C1 25pF      C4        
+| C2 25pF      C5        
+| C2 0pF       C6        
+| Co 25pF      C7        
+| Co 25pF      C8        
+| Co 0pF       C9        
+| LED          D1        
+| LED          D2        
+| LED          D3        
+| LED          D4        
+| LED          D5        
+| LED          D6        
+| LED          D7        
+| LED          D8        
+| LED          D9        
+| LED          D10       
+| LED          D11       
+| LED          D12       
+| LED          D13       
+| LED          D14       
+| LED          D15       
+| LED          D16       
+| LED          D17       
+| LED          D18       
+| LED          D19       
+| LED          D20       
+| LED          D21       
+| LED          D22       
+| LED          D23       
+| LED          D24       
+| LED          D25       
+| LED          D26       
+| LED          D27       
+| LED          D28       
+| LED          D29       
+| LED          D30       
+| LED          D31       
+| LED          D32       
+| LED          D33       
+| LED          D34       
+| LED          D35       
+| LED          D36       
+| LED          D37       
+| LED          D38       
+| LED          D39       
+| LED          D40       
+| LED          D41       
+| LED          D42       
+| LED          D43       
+| LED          D44       
+| LED          D45       
+| LED          D46       
+| LED          D47       
+| LED          D48       
+| LED          D49       
+| LED          D50       
+| LED          D51       
+| LED          D52       
+| LED          D53       
+| LED          D54       
+| LED          D55       
+| LED          D56       
+| LED          D57       
+| LED          D58       
+| LED          D59       
+| LED          D60       
+| LED          D61       
+| LED          D62       
+| LED          D63       
+| LED          D64       
+| LED          D65       
+| LED          D66       
+| LED          D67       
+| LED          D68       
+| LED          D69       
+| LED          D70       
+| LED          D71       
+| LED          D72       
+| NPN          Q1        
+| NPN          Q2        
+| 220          R2        
+| 220          R3        
+| 220          R4        
+| 220          R5        
+| 220          R6        
+| 220          R7        
+| 220          R8        
+| 220          R9        
+| 220          R10       
+| 220          R11       
+| 220          R12       
+| 220          R14       
+| 220          R15       
+| 220          R16       
+| 220          R17       
+| 220          R18       
+| 220          R19       
+| 220          R20       
+| 220          R21       
+| 220          R22       
+| 220          R23       
+| 220          R24       
+| 220          R26       
+| 220          R27       
+| 4.7k         R1        
+| 4.7k         R13       
+| Rf 10M       R25       
+| Rext 200k    R28       
+| min+         SW1       
+| hour+        SW2       
+| 74LS86       U1        
+| 74LS32       U2        
+| 74LS90       U3        
+| 74LS90       U4        
+| 74LS90       U5        
+| 74LS90       U6        
+| 74LS08       U7        
+| 74LS90       U8        
+| 74LS90       U9        
+| 74LS47       U10       
+| 74LS47       U11       
+| 74LS47       U12       
+| 74LS04       U13       
+| 74LS393      U14       
+| 74LS393      U15       
+| QUARTZCMS4   X1        
+#End Cmp
+
+#End List
